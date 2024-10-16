@@ -241,7 +241,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/sherds"
+                  "value": "rarity_mobs:bundle_contents/pottery"
                 }
               ]
             }
