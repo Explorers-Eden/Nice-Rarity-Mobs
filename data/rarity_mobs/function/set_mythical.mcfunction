@@ -1,4 +1,4 @@
-data modify entity @s DeathLootTable set value "rarity_mobs:enchanted_equipment"
+data modify entity @s DeathLootTable set value "eden:entity/rarity_mob/enchanted_equipment"
 
 attribute @s minecraft:max_health base set 125 
 data modify entity @s Health set value 125f

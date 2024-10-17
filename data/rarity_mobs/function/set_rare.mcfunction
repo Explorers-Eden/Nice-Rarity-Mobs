@@ -1,4 +1,4 @@
-data modify entity @s DeathLootTable set value "rarity_mobs:filled_bundle"
+data modify entity @s DeathLootTable set value "eden:entity/rarity_mob/filled_bundle"
 
 attribute @s minecraft:max_health base set 75 
 data modify entity @s Health set value 75f
