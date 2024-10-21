@@ -21,22 +21,22 @@
           },
           {
             "type": "minecraft:loot_table",
-            "value": "rarity_mobs:equipment/chainmail",
+            "value": "eden:entity/rarity_mob/equipment/chainmail",
             "weight": 20
           },
           {
             "type": "minecraft:loot_table",
-            "value": "rarity_mobs:equipment/diamond",
+            "value": "eden:entity/rarity_mob/equipment/diamond",
             "weight": 10
           },
           {
             "type": "minecraft:loot_table",
-            "value": "rarity_mobs:equipment/golden",
+            "value": "eden:entity/rarity_mob/equipment/golden",
             "weight": 30
           },
           {
             "type": "minecraft:loot_table",
-            "value": "rarity_mobs:equipment/iron",
+            "value": "eden:entity/rarity_mob/equipment/iron",
             "weight": 35
           }
         ]

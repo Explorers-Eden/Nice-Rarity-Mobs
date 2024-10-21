@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -25,7 +25,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/candles"
+                  "value": "eden:entity/rarity_mob/bundle_contents/candles"
                 }
               ]
             }
@@ -33,7 +33,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -52,7 +52,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/logs"
+                  "value": "eden:entity/rarity_mob/bundle_contents/logs"
                 }
               ]
             }
@@ -60,7 +60,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -79,7 +79,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/redstone"
+                  "value": "eden:entity/rarity_mob/bundle_contents/redstone"
                 }
               ]
             }
@@ -87,7 +87,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -106,7 +106,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/quartz"
+                  "value": "eden:entity/rarity_mob/bundle_contents/quartz"
                 }
               ]
             }
@@ -114,7 +114,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -133,7 +133,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/food"
+                  "value": "eden:entity/rarity_mob/bundle_contents/food"
                 }
               ]
             }
@@ -141,7 +141,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -160,7 +160,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/plants"
+                  "value": "eden:entity/rarity_mob/bundle_contents/plants"
                 }
               ]
             }
@@ -168,7 +168,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -187,7 +187,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/corals"
+                  "value": "eden:entity/rarity_mob/bundle_contents/corals"
                 }
               ]
             }
@@ -195,7 +195,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -214,7 +214,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/lights"
+                  "value": "eden:entity/rarity_mob/bundle_contents/lights"
                 }
               ]
             }
@@ -222,7 +222,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -241,7 +241,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/pottery"
+                  "value": "eden:entity/rarity_mob/bundle_contents/pottery"
                 }
               ]
             }
@@ -249,7 +249,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -268,7 +268,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/copper"
+                  "value": "eden:entity/rarity_mob/bundle_contents/copper"
                 }
               ]
             }
@@ -276,7 +276,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -295,7 +295,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/concrete"
+                  "value": "eden:entity/rarity_mob/bundle_contents/concrete"
                 }
               ]
             }
@@ -303,7 +303,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "rarity_mobs:colored_bundles",
+          "value": "eden:entity/rarity_mob/colored_bundles",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -322,7 +322,7 @@
               "entries": [
                 {
                   "type": "minecraft:loot_table",
-                  "value": "rarity_mobs:bundle_contents/terracotta"
+                  "value": "eden:entity/rarity_mob/bundle_contents/terracotta"
                 }
               ]
             }
