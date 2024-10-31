@@ -1,0 +1,2 @@
+$data modify storage eden:temp rarity_mobs.first_name set from storage eden:name_db rarity_mobs.first_name.$(first_name)
+$data modify storage eden:temp rarity_mobs.last_name set from storage eden:name_db rarity_mobs.last_name.$(last_name)

@@ -11,7 +11,7 @@
       }
     },
     "rewards": {
-      "function": "rarity_mobs:killed_legendary",
+      "function": "rarity_mobs:killed/legendary",
       "experience": 75
     }
   }

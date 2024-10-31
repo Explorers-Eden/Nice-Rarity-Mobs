@@ -7,3 +7,6 @@ schedule function rarity_mobs:particles 10t
 
 ##remove temp data
 data remove storage eden:temp rarity_mobs
+
+##create database
+execute unless data storage eden:name_db rarity_mobs run function rarity_mobs:database/create

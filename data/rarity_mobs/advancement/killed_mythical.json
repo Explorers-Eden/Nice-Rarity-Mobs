@@ -11,7 +11,7 @@
       }
     },
     "rewards": {
-      "function": "rarity_mobs:killed_mythical",
+      "function": "rarity_mobs:killed/mythical",
       "experience": 10
     }
   }

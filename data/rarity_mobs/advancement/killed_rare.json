@@ -11,7 +11,7 @@
       }
     },
     "rewards": {
-      "function": "rarity_mobs:killed_rare",
+      "function": "rarity_mobs:killed/rare",
       "experience": 50
     }
   }
