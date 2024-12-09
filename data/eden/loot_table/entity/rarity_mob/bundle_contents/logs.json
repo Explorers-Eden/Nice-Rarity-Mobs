@@ -97,6 +97,19 @@
           },
           {
             "type": "minecraft:item",
+            "name": "minecraft:pale_oak_log",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 8
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
             "name": "minecraft:spruce_log",
             "functions": [
               {
