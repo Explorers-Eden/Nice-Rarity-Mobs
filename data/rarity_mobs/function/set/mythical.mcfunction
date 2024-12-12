@@ -7,4 +7,4 @@ data modify entity @s Health set value 125f
 data modify entity @s CustomNameVisible set value 0b
 $data modify entity @s CustomName set value '{"text":"⚔ $(first_name) $(last_name)","color":"#B277D7","italic":false}'
 
-tag @s add eden.rarity_mobs.mythical
+tag @s add eden.rarity_mob.mythical

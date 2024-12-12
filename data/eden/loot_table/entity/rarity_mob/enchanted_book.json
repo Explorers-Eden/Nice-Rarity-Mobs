@@ -10,9 +10,12 @@
           "weight": 5,
           "functions": [
             {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:treasure",
-              "only_compatible": true
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 60
+              },
+              "options": "#minecraft:treasure"
             }
           ]
         },
@@ -22,9 +25,12 @@
           "weight": 15,
           "functions": [
             {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:in_enchanting_table",
-              "only_compatible": true
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 60
+              },
+              "options": "#minecraft:in_enchanting_table"
             }
           ]
         },
@@ -34,9 +40,12 @@
           "weight": 30,
           "functions": [
             {
-              "function": "minecraft:enchant_randomly",
-              "options": "#minecraft:on_random_loot",
-              "only_compatible": true
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 20,
+                "max": 60
+              },
+              "options": "#minecraft:on_random_loot"
             }
           ]
         }

@@ -12,8 +12,8 @@
               {
                 "function": "minecraft:enchant_with_levels",
                 "levels": {
-                  "min": 0,
-                  "max": 35
+                  "min": 20,
+                  "max": 60
                 },
                 "options": "#minecraft:on_random_loot"
               }
