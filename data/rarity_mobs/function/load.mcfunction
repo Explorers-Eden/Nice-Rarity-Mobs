@@ -1,8 +1,12 @@
 ##default technical scoreboard
 scoreboard objectives add eden.technical dummy
 
+##additional scoreboards
+scoreboard objectives remove rarity_mobs.timer
+scoreboard objectives add rarity_mobs.timer dummy
+
 ##init schedules
-schedule function rarity_mobs:run 20t
+schedule function rarity_mobs:run 1s
 schedule function rarity_mobs:particles 10t
 
 ##remove temp data
