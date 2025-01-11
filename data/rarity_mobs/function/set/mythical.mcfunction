@@ -8,3 +8,5 @@ data modify entity @s CustomNameVisible set value 0b
 $data modify entity @s CustomName set value '{"text":"⚔ $(first_name) $(last_name)","color":"#B277D7","italic":false}'
 
 tag @s add eden.rarity_mob.mythical
+
+data remove storage eden:temp rarity_mobs

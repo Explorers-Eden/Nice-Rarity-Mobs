@@ -1,5 +1,5 @@
 tag @s add eden.rarity_mob
-execute unless predicate eden:percentages/2-5 run return fail
+execute unless predicate eden:percentages/5 run return fail
 
 execute store result storage eden:temp rarity_mobs.id.first_name int 1 run random value 1..250
 execute store result storage eden:temp rarity_mobs.id.last_name int 1 run random value 1..250
