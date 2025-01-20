@@ -176,6 +176,21 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:resin_clump",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:enchanted_count_increase",
+              "enchantment": "minecraft:looting",
+              "count": {
+                "min": 0,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:prismarine_shard",
           "weight": 15,
           "functions": [

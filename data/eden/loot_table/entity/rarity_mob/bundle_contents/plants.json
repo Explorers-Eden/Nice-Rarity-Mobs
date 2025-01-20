@@ -297,6 +297,32 @@
           },
           {
             "type": "minecraft:item",
+            "name": "minecraft:open_eyeblossom",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 8
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:closed_eyeblossom",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1,
+                  "max": 8
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
             "name": "minecraft:pink_tulip",
             "functions": [
               {
