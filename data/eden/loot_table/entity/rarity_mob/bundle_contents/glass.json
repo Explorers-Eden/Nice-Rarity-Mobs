@@ -9,7 +9,7 @@
       "entries": [
         {
           "type": "minecraft:tag",
-          "name": "eden:dyeable_glazed_terracotta",
+          "name": "eden:dyeable_glass",
           "expand": true
         }
       ]
@@ -22,7 +22,7 @@
       "entries": [
         {
           "type": "minecraft:tag",
-          "name": "minecraft:terracotta",
+          "name": "eden:dyeable_glass_panes",
           "expand": true
         }
       ]

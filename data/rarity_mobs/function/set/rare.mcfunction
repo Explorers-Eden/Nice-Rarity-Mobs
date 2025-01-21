@@ -7,5 +7,9 @@ data modify entity @s CustomNameVisible set value 0b
 $data modify entity @s CustomName set value '{"text":"⚔ $(first_name) $(last_name)","color":"#58CD78","italic":false}'
 
 tag @s add eden.rarity_mob.rare
+tag @s add eden.has_rarity
+
+summon marker ~ ~ ~ {Tags:["eden.marker.rarity","eden.marker.rarity.rare"]}
+ride @n[type=minecraft:marker,tag=eden.marker.rarity.rare] mount @s
 
 data remove storage eden:temp rarity_mobs

@@ -1,271 +1,36 @@
 {
-    "type": "minecraft:generic",
-    "pools": [
-      {
-        "rolls": 8,
-        "entries": [
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:redstone",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 15
+      },
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "eden:redstone_components",
+          "expand": true
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:redstone",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 12
               }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:piston",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:sticky_piston",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:target",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:redstone_lamp",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:dropper",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:dispenser",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:redstone_block",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:redstone_torch",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:comparator",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:repeater",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:composter",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:note_block",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:hopper",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:slime_block",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:honey_block",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:trapped_chest",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:lever",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:tripwire_hook",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          },
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:sculk_sensor",
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 1,
-                  "max": 8
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

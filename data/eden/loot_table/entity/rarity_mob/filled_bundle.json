@@ -327,6 +327,33 @@
               ]
             }
           ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "eden:entity/rarity_mob/colored_bundles",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "target": "custom_name",
+              "name": {
+                "text": "Treasure Bundle",
+                "color": "#58CD78",
+                "bold": false,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_contents",
+              "component": "minecraft:bundle_contents",
+              "entries": [
+                {
+                  "type": "minecraft:loot_table",
+                  "value": "eden:entity/rarity_mob/bundle_contents/glass"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
