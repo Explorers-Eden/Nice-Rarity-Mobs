@@ -19,6 +19,12 @@
     "minecraft:peony",
     "minecraft:pitcher_plant",
     "minecraft:tall_grass",
-    "minecraft:short_grass"
+    "minecraft:short_grass",
+    "minecraft:leaf_litter",
+    "minecraft:wildflowers",
+    "minecraft:firefly_bush",
+    "minecraft:short_dry_grass",
+    "minecraft:tall_dry_grass",
+    "minecraft:cactus_flower"
   ]
 }

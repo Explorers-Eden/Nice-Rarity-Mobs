@@ -13,7 +13,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -40,7 +41,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -67,7 +69,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -94,7 +97,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -121,7 +125,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -148,7 +153,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -175,7 +181,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -202,7 +209,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -229,7 +237,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle filled",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -256,7 +265,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -283,7 +293,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -310,7 +321,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
@@ -337,7 +349,8 @@
               "entity": "this",
               "target": "custom_name",
               "name": {
-                "text": "Treasure Bundle",
+                "translate": "item.rarity_mobs.treasure_bundle",
+                "fallback": "Treasure Bundle",
                 "color": "#58CD78",
                 "bold": false,
                 "italic": false
