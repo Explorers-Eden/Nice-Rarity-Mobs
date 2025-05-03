@@ -9,7 +9,4 @@ $data modify entity @s CustomName set value {"text":"⚔ $(first_name) $(last_na
 tag @s add eden.rarity_mob.legendary
 tag @s add eden.has_rarity
 
-summon marker ~ ~ ~ {Tags:["eden.marker.rarity","eden.marker.rarity.legendary"]}
-ride @n[type=minecraft:marker,tag=eden.marker.rarity.legendary] mount @s
-
 data remove storage eden:temp rarity_mobs
